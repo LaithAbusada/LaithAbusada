@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Laith 👋
 
-<!--
-**LaithAbusada/LaithAbusada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Passionate software engineer who loves building things — from Kotlin Android apps to full-stack web applications.
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+React · Next.js · TypeScript · Kotlin · GraphQL · Tailwind CSS · Flutter
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Featured Projects
+- **Piggy Bank** — Full-stack finance management app (Next.js, PostgreSQL, Clerk)
+- **ProGas** — Fuel price prediction app (React, Python ML)
+- **Home Automation** — Kotlin touch panel app with Odoo backend
+- **Magic Cube Driver** — Web UI built with Next.js
+
+## 📫 Let's connect
+[LinkedIn](https://www.linkedin.com/in/laithabusada/)
