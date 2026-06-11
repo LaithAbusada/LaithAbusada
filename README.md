@@ -12,4 +12,3 @@ React · Next.js · TypeScript · Kotlin · GraphQL · Tailwind CSS · Flutter
 - **Magic Cube Driver** — Web UI built with Next.js
 
 ## 📫 Let's connect
-[LinkedIn](https://www.linkedin.com/in/laithabusada/)
