@@ -19,7 +19,7 @@ Based in Amman, Jordan. Open to remote roles and to relocating across the Gulf.
 
 ## 🚀 Freelance work
 
-Alongside my job I build and host sites for local clients under [Beavely](https://beavely.com), end to end.
+I also build and host sites for local clients under [Beavely](https://beavely.com), end to end.
 
 <table>
   <tr>
